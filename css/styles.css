@@ -1,5 +1,7 @@
 img {
 	float: left;
+	width: 20%;
+	height: 20%;
 }
 
 .sidebar {
@@ -10,7 +12,7 @@ img {
 }
 
 .column {
-  width: 300px;
+  width: 250px;
   float: left;
   margin: 5px;
 }
